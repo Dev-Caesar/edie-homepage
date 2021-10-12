@@ -27,8 +27,8 @@
 
 ## Overview
 
-![](./Screenshot-desktop.png)
-![](./Screenshot-mobile.png)
+![](./screenshot-desktop.png)
+![](./screenshot-mobile.png)
 
 
 
